@@ -9,12 +9,12 @@
 title: Prueba
 
 # Your name to show in the footer
-author: pjmeca
+author: Pablo Meca
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Acerca de: "aboutme"
   Proyectos:
     - Apuntes 3º Ingeniería Informática: "https://pjmeca.github.io/informatica3"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,7 +42,7 @@ social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
   github: pjmeca
-#  twitter: daattali
+  twitter: pjmeca
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -51,13 +51,13 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: pjmeca
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: pjmeca
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID

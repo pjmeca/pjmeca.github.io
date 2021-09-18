@@ -6,11 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-<<<<<<< HEAD
-title: Pablo Meca
-=======
 title: Prueba
->>>>>>> 94c94a7579bf5772fc3cb1f5f753417a6127bcd0
+
+# Your name to show in the footer
+author: Some Person
 
 # Your name to show in the footer
 author: pjmeca

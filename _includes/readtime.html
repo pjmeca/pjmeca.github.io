@@ -8,7 +8,7 @@
   {% assign yesReadTime = number | append: " minutos" %}
   <span class="post-meta"><span class="d-none d-md-inline middot">&middot;</span> {{ yesReadTime }}</span>
 {% elsif number <= 1 %}
-  {% assign minReadTime = '&lt; 1 minuto' %}
+  {% assign minReadTime = '1 minuto' %}
   <span class="post-meta"><span class="d-none d-md-inline middot">&middot;</span> {{ minReadTime }}</span>
 {% else %}
   {% assign nilReadTime = number | replace:'0',' ' %}

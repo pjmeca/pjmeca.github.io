@@ -14,9 +14,11 @@ author: Pablo Meca
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Acerca de: "aboutme"
+#  Acerca de: "aboutme"
   Proyectos:
     - Apuntes 3º Ingeniería Informática: "https://pjmeca.github.io/informatica3"
+    - Listado de órdenes Linux - Parte 1: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
+    - Listado de órdenes Linux - Parte 2: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
@@ -24,7 +26,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.jpg"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

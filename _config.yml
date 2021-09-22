@@ -15,12 +15,12 @@ author: Pablo Meca
 
 navbar-links:
 #  Acerca de: "aboutme"
-  Proyectos:
+  Apuntes:
     - Apuntes 3º Ingeniería Informática: "https://pjmeca.github.io/informatica3"
     - Listado de órdenes Linux - Parte 1: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
     - Listado de órdenes Linux - Parte 2: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+  Author's home: "https://pjmeca.github.io"
 
 # --- Logo --- #
 
@@ -33,7 +33,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer social media links --- #

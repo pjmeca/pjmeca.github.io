@@ -16,9 +16,9 @@ author: "Pablo Meca"
 navbar-links:
 #  Acerca de: "aboutme"
   Apuntes:
-    - Apuntes 3º Ingeniería Informática: "https://pjmeca.github.io/informatica3"
-    - Listado de órdenes Linux - Parte 1: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
-    - Listado de órdenes Linux - Parte 2: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
+    - Apuntes 3º: "https://pjmeca.github.io/informatica3"
+    - Órdenes Linux - Parte 1: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
+    - Órdenes Linux - Parte 2: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://pjmeca.github.io"
 

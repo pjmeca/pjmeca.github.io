@@ -20,20 +20,20 @@ navbar-links:
     - Listado de órdenes Linux - Parte 1: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
     - Listado de órdenes Linux - Parte 2: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://pjmeca.github.io"
+#  Author's home: "https://pjmeca.github.io"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon.png"
+title-img: "/assets/img/logo.png"
 
 
 # --- Footer social media links --- #
@@ -89,10 +89,10 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+# feed_show_tags: true
 
 # Add a search button to the navbar
-# post_search: true
+ post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "pjmeca, fium"

@@ -5,8 +5,21 @@ permalink: /404.html
 ---
 
 <div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
+  <h1>Whoops, parece que esta página no existe <i>todavía</i>.</h1>
+  <h1>Sigue navegando... (404 error)</h1>
+
+  <div id="contador">5</div>
+  <script>
+        setInterval(function() {
+            var div = document.querySelector("#contador");
+            var count = div.textContent * 1 - 1;
+            div.textContent = count;
+            if (count <= 0) {
+                window.location.replace("https://pjmeca.github.io");
+            }
+        }, 1000);
+  </script>
+
   <br/>
 
   <img src="{{ 'https://lh3.googleusercontent.com/tVB8MUKVHssxIcqsmN122kIOHZK_VsxFcQ1TTmHDq0RUTTIm2tMke3U2fcmm0sMNcYLV_2CzE4iui0bJI8MnWevH=w640-h400-e365-rj-sc0x00ffffff' | relative_url }}" alt="Not found" />

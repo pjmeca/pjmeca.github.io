@@ -3,7 +3,6 @@ layout: page
 title: Premios
 cover-img: /assets/img/3d.png
 thumbnail-img: /assets/img/3d.png
-tags: [fium]
 readtime: true
 social-share: false
 lang: es

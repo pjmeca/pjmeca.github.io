@@ -18,7 +18,7 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 
 - Arquitectura y Organización de Computadores
   
-  - [Tema 1: Arquitectura de un CMP](../AOC/Tema1/Tema%201)
+  - [Tema 1: Arquitectura de un CMP](../AOC/Tema1/Tema1)
 
 - Arquitectura de Redes
   

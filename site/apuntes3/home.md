@@ -18,7 +18,9 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 
 - Arquitectura y Organización de Computadores
   
-  - [Tema 1: Arquitectura de un CMP](https://pjmeca.github.io/informatica3/AOC/Tema1/Tema%201.html)
+  - [Tema 1: Arquitectura de un CMP](AOC/Tema1/Tema%201)
+  - [Tema 1: Arquitectura de un CMP](AOC/Tema1/Tema%201.md)
+  - [Tema 1: Arquitectura de un CMP](AOC/Tema1/Tema%201.html)
 
 - Arquitectura de Redes
   
@@ -31,8 +33,6 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 - Tecnologías de Desarrollo de Software
   
   - [Tema 1: Algunos principios básicos de diseño orientado a objetos](https://pjmeca.github.io/informatica3/TDS/Tema1/Tema%201.html)
-
-
 
 ## Bibliografía y agradecimientos
 

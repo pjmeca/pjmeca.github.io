@@ -19,8 +19,8 @@ navbar-links:
   Apuntes:
     - Introducción: "https://pjmeca.github.io/2021-09-22-apuntesIntroduccion/"
     - Apuntes 3º: "/site/apuntes3/home"
-    - Órdenes Linux - Parte 1: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
-    - Órdenes Linux - Parte 2: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
+    - Órdenes Linux - Parte 1: "/site/apuntes2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
+    - Órdenes Linux - Parte 2: "/site/apuntes2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
   Premios: "/site/premios"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://pjmeca.github.io"

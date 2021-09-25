@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Algunos principios básicos de diseño orientado a objetos
+layout: page
+title: Algunos principios básicos de diseño orientado a objetos 
 subtitle: Tema 1
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg

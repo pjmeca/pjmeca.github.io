@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Arquitectura de un multiprocesador-en-un-chip (CMP)
+layout: page
+title: Introducción a la arquitectura y organización de las redes de ordenadores
 subtitle: Tema 1
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg

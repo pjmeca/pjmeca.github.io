@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Arquitectura de un multiprocesador-en-un-chip (CMP)
 subtitle: Tema 1
 cover-img: /assets/img/fium.jpg

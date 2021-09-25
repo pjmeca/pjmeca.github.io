@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Interfaz de un Sistema Operativo
 subtitle: Tema 1
 cover-img: /assets/img/fium.jpg

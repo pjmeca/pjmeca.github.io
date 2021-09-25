@@ -18,21 +18,21 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 
 - Arquitectura y Organización de Computadores
   
-  - [Tema 1: Arquitectura de un CMP](../AOC/Tema1/Tema1)
+  - [Tema 1: Arquitectura de un CMP](../../../informatica3/AOC/Tema1/Tema1.html)
 
 - Arquitectura de Redes
   
-  - [Tema 1: Introducción a la Arquitectura y Organización de las Redes de Ordenadores](../AR/Tema1/Tema1)
+  - [Tema 1: Introducción a la Arquitectura y Organización de las Redes de Ordenadores](../../../informatica3/AR/Tema1/Tema1.html)
 
 - Ampliación de Sistemas Operativos
   
-  - [Tema 1: Interfaz de un Sistema Operativo](../ASO/Tema1/Tema1)
+  - [Tema 1: Interfaz de un Sistema Operativo](../../../informatica3/ASO/Tema1/Tema1.html)
 
 - Sistemas Inteligentes
 
 - Tecnologías de Desarrollo de Software
   
-  - [Tema 1: Algunos principios básicos de diseño orientado a objetos](../TDS/Tema1/Tema1)
+  - [Tema 1: Algunos principios básicos de diseño orientado a objetos](../../../informatica3/TDS/Tema1/Tema1.html)
 
 ## Bibliografía y agradecimientos
 

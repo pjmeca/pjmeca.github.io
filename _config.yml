@@ -18,7 +18,7 @@ navbar-links:
 #  Acerca de: "aboutme"
   Apuntes:
     - Introducción: "https://pjmeca.github.io/2021-09-22-apuntesIntroduccion/"
-    - Apuntes 3º: "https://pjmeca.github.io/2021-09-22-apuntes3"
+    - Apuntes 3º: "/_posts/apuntes3"
     - Órdenes Linux - Parte 1: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%201.pdf"
     - Órdenes Linux - Parte 2: "https://pjmeca.github.io/informatica2/Listado%20de%20órdenes%20de%20Linux%20-%20Parte%202%20Administración.pdf"
   Premios: "premios"

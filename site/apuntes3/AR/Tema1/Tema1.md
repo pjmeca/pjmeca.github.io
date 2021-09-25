@@ -1,6 +1,14 @@
-[🏡 Inicio](../../index.html)
-
-# Tema 1: Introducción a la Arquitectura y Organización de las Redes de Ordenadores
+---
+layout: page
+title: Arquitectura de un multiprocesador-en-un-chip (CMP)
+subtitle: Tema 1
+cover-img: /assets/img/fium.jpg
+thumbnail-img: /assets/img/fium.jpg
+tags: [fium, apuntes, redes, ar]
+readtime: true
+social-share: false
+lang: es
+---
 
 ## Índice
 
@@ -31,8 +39,6 @@
 - [Organización y estructura de Internet](#Punto5)
 
 - [Bibliografía](#Bibliografia)
-
-## 
 
 ## Conceptos iniciales <a name="Punto1"><a>
 

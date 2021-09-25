@@ -1,6 +1,14 @@
-[🏡 Inicio](../../index.html)
-
-# Tema 1: Algunos principios básicos de diseño orientado a objetos
+---
+layout: page
+title: Algunos principios básicos de diseño orientado a objetos
+subtitle: Tema 1
+cover-img: /assets/img/fium.jpg
+thumbnail-img: /assets/img/fium.jpg
+tags: [fium, apuntes, tds, tecnologias desarrollo software, software]
+readtime: true
+social-share: false
+lang: es
+---
 
 ## Índice
 
@@ -23,6 +31,8 @@
   - [Métodos y técnicas de creación de software](#Punto7)
   
   - [Desarrollo dirigido por el dominio](#Punto8)
+
+
 
 ## Modelo
 

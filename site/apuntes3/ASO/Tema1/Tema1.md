@@ -1,4 +1,14 @@
-# Tema 1: Interfaz de un Sistema Operativo
+---
+layout: page
+title: Interfaz de un Sistema Operativo
+subtitle: Tema 1
+cover-img: /assets/img/fium.jpg
+thumbnail-img: /assets/img/fium.jpg
+tags: [fium, apuntes, aso, sistemas operativos]
+readtime: true
+social-share: false
+lang: es
+---
 
 ## Índice
 
@@ -68,8 +78,6 @@ El *shell* está estandarizado (POSIX.2 o 1003.2-1992), tanto **ksh** como **bas
 
 El *shell* por defecto depende del sistema operativo, podemos averiguar el que estamos usando haciendo: `$ echo $SHELL`
 
-
-
 ## Estándares <a name="Punto2"></a>
 
 ### Lenguaje C
@@ -95,8 +103,6 @@ Hoy en día, el término genérico *Linux* se refiere a la combinación del kern
 [POSIX](es.wikipedia.org/wiki/POSIX#:~:text=POSIX%20(acrónimo,).) es una familia de estándares para sistemas operativos de [IEEE](www.ieee.org/about/vision-mission.html#:~:text=IEEE%20is,statements.) que regula las interfaces, pero no las implementaciones.
 
 <img title="" src="assets/ieee_estandares.png" alt="" data-align="center" width="383">
-
-
 
 ## Llamadas al sistema y funciones de biblioteca <a name="Punto3"></a>
 

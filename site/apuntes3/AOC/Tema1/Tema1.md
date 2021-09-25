@@ -1,8 +1,14 @@
-[🏡 Inicio](../../index.html)
-
-# Tema 1: Arquitectura de un multiprocesador-en-un-chip (CMP)
-
-## 
+---
+layout: page
+title: Arquitectura de un multiprocesador-en-un-chip (CMP)
+subtitle: Tema 1
+cover-img: /assets/img/fium.jpg
+thumbnail-img: /assets/img/fium.jpg
+tags: [fium, apuntes, aoc, computadores]
+readtime: true
+social-share: false
+lang: es
+---
 
 ## Índice
 
@@ -11,7 +17,7 @@
 3. [Aspectos paralelos: Leyes de Amdahl y Gustafson](#Punto3)
 4. [De sistemas empotrados a supercomputadores](#Punto4)
 
-## 
+
 
 ## Aspectos tecnológicos: Leyes de Moore y de Dennard <a name="Punto1"></a>
 
@@ -436,6 +442,10 @@ $CPU\ time = Instruction\ count\ ·\ Cycles\ per\ instruction\ ·\ Clock\ cycle\
         $CPU\ clock\ cycles=\sum_{i=1}^{n}IC_i\ ·\ CPI_i$
 
         $CPU\ time=(\sum_{i=1}^{n}IC_i\ ·\ CPI_i)\ ·\ Clock\ cycle\ time$
+
+$$
+CPU\ time=(\sum_{i=1}^{n}IC_i\ ·\ CPI_i)\ ·\ Clock\ cycle\ time
+$$
 
 - Ancho de banda (a veces productividad)
   

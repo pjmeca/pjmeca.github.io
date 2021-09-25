@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Algunos principios básicos de diseño orientado a objetos
 subtitle: Tema 1
 cover-img: /assets/img/fium.jpg
@@ -31,8 +31,6 @@ lang: es
   - [Métodos y técnicas de creación de software](#Punto7)
   
   - [Desarrollo dirigido por el dominio](#Punto8)
-
-
 
 ## Modelo
 

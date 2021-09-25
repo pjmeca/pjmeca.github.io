@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Interfaz de un Sistema Operativo
 subtitle: Tema 1
 cover-img: /assets/img/fium.jpg
@@ -29,8 +29,6 @@ lang: es
   - [Gestión de memoria dinámica](DM)
   
   - [Comunicación/sincronización de procesos (IPC)](#IPC)
-
-
 
 ## Introducción <a name="#Punto1"></a>
 

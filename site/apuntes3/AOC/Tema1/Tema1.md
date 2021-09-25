@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Arquitectura de un multiprocesador-en-un-chip (CMP)
 subtitle: Tema 1
 cover-img: /assets/img/fium.jpg
@@ -16,8 +16,6 @@ lang: es
 2. [Clasificación de Flynn. Principales figuras de mérito](#Punto2)
 3. [Aspectos paralelos: Leyes de Amdahl y Gustafson](#Punto3)
 4. [De sistemas empotrados a supercomputadores](#Punto4)
-
-
 
 ## Aspectos tecnológicos: Leyes de Moore y de Dennard <a name="Punto1"></a>
 

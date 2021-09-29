@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apuntes del 3er curso
-subtitle: del Grado en Ingeniería Informática
+title: 3er curso
+subtitle: Apuntes del Grado en Ingeniería Informática
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg
 tags: [fium, apuntes]

@@ -19,6 +19,7 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 - Arquitectura y Organización de Computadores
   
   - [Tema 1: Arquitectura de un CMP](../../../informatica3/AOC/Tema1/Tema1.html)
+  - [Tema 2: Explotando el paralelismo dentro de cada núcleo](../../../informatica3/AOC/Tema1/Tema2.html)
 
 - Arquitectura de Redes
   

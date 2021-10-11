@@ -23,5 +23,7 @@ lang: es
 - Finalista del CreaMurcia 2019
   
   En la modalidad de fotografía por: *.exe*
+
+![](../assets/img/creamurcia2019.jpg)
   
   <img title="" src="../assets/img/creamurcia2019.jpg" alt="" width="509" data-align="left">

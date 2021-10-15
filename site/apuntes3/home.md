@@ -32,6 +32,7 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 - Sistemas Inteligentes
   
   - [Tema 1: Introducción a los Sistemas Inteligentes Artificiales](../../../informatica3/SSII/Tema1/Tema1.html)
+  - [Tema 2: Los Problemas y los Procesos de Búsqueda](../../../informatica3/SSII/Tema2/Tema2.html)
 
 - Tecnologías de Desarrollo de Software
   

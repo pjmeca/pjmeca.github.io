@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASO
-subtitle: Prueba 24
+subtitle: Prueba 25
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg
 tags: [fium, apuntes]
@@ -19,3 +19,5 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 var result = Number(iframe.contentWindow.document.body.scrollHeight)+10;
 
 iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
+
+<frameset rows="100%, *" border="0" framespacing="0" frameborder="0"><frame noresize="" src="../../../informatica3/ASO/Tema1/Tema1.html"></frame></frameset>

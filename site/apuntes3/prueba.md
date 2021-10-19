@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASO
-subtitle: Prueba 22
+subtitle: Prueba 23
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg
 tags: [fium, apuntes]
@@ -14,7 +14,7 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 
 <iframe src="../../../informatica3/ASO/Tema1/Tema1.html" id="myIframe" frameBorder=0>Error cargando el contenido. Por favor, haz <a href="../../../informatica3/ASO/Tema1/Tema1.html">click aquí</a> para verlo.</iframe>
 
-<script>var iframe =document.getElementById("myIframe"); iframe.onload = function(){   iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px'; iframe.style.width = "100%"; iframe.style="display:block"} </script>
+<script>var iframe =document.getElementById("myIframe"); iframe.onload = function(){   iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px'; iframe.style.width = "100%"} </script>
 
 var result = Number(iframe.contentWindow.document.body.scrollHeight)+10;
 

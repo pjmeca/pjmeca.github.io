@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3er curso
-subtitle: Apuntes del Grado en Ingeniería Informática
+title: ASO
+subtitle: Prueba
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg
 tags: [fium, apuntes]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASO
-subtitle: Prueba 11
+subtitle: Prueba 12
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg
 tags: [fium, apuntes]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apuntes de Ingeniería Informática
-subtitle: y porqué te salvarán la vida
+subtitle: y por qué te salvarán la vida
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg
 tags: [fium]

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: ASO
 subtitle: Prueba 3
 cover-img: /assets/img/fium.jpg

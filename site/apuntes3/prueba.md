@@ -12,4 +12,4 @@ lang: es
 
 En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) durante mis estudios del tercer curso en el Grado de Ingeniería Informática. El objetivo con el que he creado esta web ha sido el de facilitar a futuros estudiantes la información, presentándola de una manera sencilla, concisa e ilustrativa. Espero que sean de utilidad.
 
-<iframe src="../../../informatica3/ASO/Tema1/Tema1.html"></iframe>
+<iframe src="../../../informatica3/ASO/Tema1/Tema1.html">sandbox="allow-same-origin" onload="this.style.height=this.contentWindow.document.body.scrollHeight+20)+'px';"></iframe>

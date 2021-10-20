@@ -25,3 +25,7 @@ Por eso, porque en momentos parecía imposible sacarlo todo adelante, he decidid
 Hay quien dice que la mía es una carrera difícil, yo no lo veo así, tan solo es una carrera que requiere tiempo, y con estos apuntes espero ahorrar parte de ese tiempo. 
 
 Somos muy afortunados de poder vivir en una época en la que el acceso al conocimiento y al progreso no es cosa de ricos. Más afortunados somos aquellos que estudiamos el funcionamiento de la llave a todo ese conocimiento: el computador, porque el camino ya está allanado, solo hay que **recorrerlo**.
+
+<form action="../site/apuntes3/home.md">
+        <input type="submit" value="Ver los Apuntes" style="dashed"/>
+</form>

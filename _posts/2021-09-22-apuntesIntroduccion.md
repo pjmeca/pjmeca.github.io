@@ -26,6 +26,6 @@ Hay quien dice que la mía es una carrera difícil, yo no lo veo así, tan solo 
 
 Somos muy afortunados de poder vivir en una época en la que el acceso al conocimiento y al progreso no es cosa de ricos. Más afortunados somos aquellos que estudiamos el funcionamiento de la llave a todo ese conocimiento: el computador, porque el camino ya está allanado, solo hay que **recorrerlo**.
 
-<form action="../site/apuntes3/home.md">
+<form action="../site/apuntes3/home">
         <input type="submit" value="Ver los Apuntes" style="dashed"/>
 </form>

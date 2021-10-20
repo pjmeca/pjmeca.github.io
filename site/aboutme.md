@@ -3,7 +3,7 @@ layout: page
 title: Acerca de
 ---
 
-<img src="../assets/img/spanish-flag.png" title="" alt="" data-align="center">
+<img title="" src="../assets/img/spanish-flag.png" alt="" data-align="center" width="100">
 
 ¡Bienvenido a mi web! Mi nombre es Pablo Meca, y actualmente estoy estudiando Ingeniería Informática en la Universidad de Murcia. 
 
@@ -15,7 +15,7 @@ Para cualquier consulta, sugerencia o corrección de errores, no dude en ponerse
 
 -----------------
 
-<img src="../assets/img/uk-flag.png" title="" alt="" data-align="center">
+<img title="" src="../assets/img/uk-flag.png" alt="" data-align="center" width="100">
 
 Welcome to my website! My name is Pablo Meca, and I am a software engineer student at the University of Murcia (Spain).
 

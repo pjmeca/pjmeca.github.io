@@ -15,7 +15,7 @@ author: "Pablo Meca"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  Acerca de: "/site/aboutme"
+#  Proyectos: ""
   Apuntes:
     - Introducción: "https://pjmeca.github.io/2021-09-22-apuntesIntroduccion/"
     - Apuntes 3º: "/site/apuntes3/home"
@@ -24,6 +24,7 @@ navbar-links:
   Premios: "/site/premios"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://pjmeca.github.io"
+  Acerca de: "/site/aboutme"
 
 # --- Logo --- #
 

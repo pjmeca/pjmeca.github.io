@@ -24,6 +24,9 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 - Arquitectura de Redes
   
   - [Tema 1: Introducción a la Arquitectura y Organización de las Redes de Ordenadores](../../../informatica3/AR/Tema1/Tema1.html)
+  - Tema 2
+  - Tema 3
+  - [Test de los temas 1-3 (Primer Parcial)](../../../informatica3/AR/Test1-3/index.html)
 
 - Ampliación de Sistemas Operativos
   

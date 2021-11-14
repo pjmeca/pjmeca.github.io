@@ -33,9 +33,10 @@
               <hr class="small">
               <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
 
+	<!-- Añadido para que aparezca el tiempo de lectura en las "page" también -->
 		{% if page.readtime %}
-              {% include readtime.html %}
-            {% endif %}
+              		{% include readtime.html %}
+            	{% endif %}
 
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>

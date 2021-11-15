@@ -24,7 +24,7 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 - Arquitectura de Redes
   
   - [Tema 1: Introducción a la Arquitectura y Organización de las Redes de Ordenadores](AR/Tema1.html)
-  - [Tema 2: Algoritmos y Protocolos de Encaminamiento](AR/Tema2.html )
+  - [Tema 2: Algoritmos y Protocolos de Encaminamientor](AR/Tema2.html)
   - [Tema 3: IP Multicast](AR/Tema3.html)
   - [Test de los temas 1-3 (Primer Parcial)](../../../informatica3/AR/Test1-3/index.html)
 

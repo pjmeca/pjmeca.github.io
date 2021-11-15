@@ -5,7 +5,7 @@ subtitle: Apuntes del Grado en Ingeniería Informática
 cover-img: /assets/img/fium.jpg
 thumbnail-img: /assets/img/fium.jpg
 tags: [fium, apuntes]
-readtime: true
+readtime: false
 social-share: false
 lang: es
 ---

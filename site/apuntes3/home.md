@@ -19,28 +19,28 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 - Arquitectura y Organización de Computadores
   
   - [Tema 1: Arquitectura de un CMP](AOC/Tema1.html)
-  - [Tema 2: Explotando el paralelismo dentro de cada núcleo](../../../informatica3/AOC/Tema2/Tema2.html)
+  - [Tema 2: Explotando el paralelismo dentro de cada núcleo](AOC/Tema2.html)
 
 - Arquitectura de Redes
   
-  - [Tema 1: Introducción a la Arquitectura y Organización de las Redes de Ordenadores](../../../informatica3/AR/Tema1/Tema1.html)
-  - [Tema 2: Algoritmos y Protocolos de Encaminamiento](../../../informatica3/AR/Tema2/Tema2.html)
-  - [Tema 3: IP Multicast](../../../informatica3/AR/Tema3/Tema3.html)
+  - [Tema 1: Introducción a la Arquitectura y Organización de las Redes de Ordenadores](AR/Tema1.html)
+  - [Tema 2: Algoritmos y Protocolos de Encaminamiento](AR/Tema2.html)
+  - [Tema 3: IP Multicast](AR/Tema3.html)
   - [Test de los temas 1-3 (Primer Parcial)](../../../informatica3/AR/Test1-3/index.html)
 
 - Ampliación de Sistemas Operativos
   
-  - [Tema 1: Interfaz de un Sistema Operativo](../../../informatica3/ASO/Tema1/Tema1.html)
+  - [Tema 1: Interfaz de un Sistema Operativo](ASO/Tema1.html)
 
 - Sistemas Inteligentes
   
-  - [Tema 1: Introducción a los Sistemas Inteligentes Artificiales](../../../informatica3/SSII/Tema1/Tema1.html)
-  - [Tema 2: Los Problemas y los Procesos de Búsqueda](../../../informatica3/SSII/Tema2/Tema2.html)
+  - [Tema 1: Introducción a los Sistemas Inteligentes Artificiales](SSII/Tema1.html)
+  - [Tema 2: Los Problemas y los Procesos de Búsqueda](SSII/Tema2.html)
   - [Tema 3: Estrategias básicas de búsqueda](../../../informatica3/SSII/Tema3/Tema3.html)
 
 - Tecnologías de Desarrollo de Software
   
-  - [Tema 1: Algunos principios básicos de diseño orientado a objetos](../../../informatica3/TDS/Tema1/Tema1.html)
+  - [Tema 1: Algunos principios básicos de diseño orientado a objetos](TDS/Tema1.html)
 
 ## Bibliografía y agradecimientos
 

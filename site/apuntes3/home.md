@@ -27,6 +27,8 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
   - [Tema 2: Algoritmos y Protocolos de Encaminamiento](AR/Tema2.html)
   - [Tema 3: IP Multicast](AR/Tema3.html)
   - [Test de los temas 1-3 (Primer Parcial)](../../../informatica3/AR/Test1-3/index.html)
+  - [Tema 4: Aspectos avanzados del protocolo TCP](AR/Tema4.html)
+  - [Test de los temas 4-6 (Segundo Parcial)](../../../informatica3/AR/Test4-6/index.html)
 
 - Ampliación de Sistemas Operativos
   

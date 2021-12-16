@@ -30,6 +30,8 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
   - [Tema 4: Aspectos avanzados del protocolo TCP](AR/Tema4.html)
   - [Test de los temas 4-6 (Segundo Parcial)](../../../informatica3/AR/Test4-6/index.html)
 
+**NOTA**: Estos apuntes se han extraído directamente del [material de referencia de la asignatura](https://aulavirtual.um.es/access/content/group/1908_G_2021_N_N/Teor%C3%ADa/Apuntes_de_Arquitectura_de_Redes.pdf). Únicamente se han realizado cambios de diseño y correcciones ortográficas/de expresión para facilitar el entendimiento. También se han eliminado algunas porciones (mínimas) que, bajo mi punto de vista, no son necesarias o son redundantes y dificultaban mi comprensión.
+
 - Ampliación de Sistemas Operativos
   
   - [Tema 1: Interfaz de un Sistema Operativo](ASO/Tema1.html)

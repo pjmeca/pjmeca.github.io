@@ -30,8 +30,6 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
   - [Tema 4: Aspectos avanzados del protocolo TCP](AR/Tema4.html)
   - [Test de los temas 4-6 (Segundo Parcial)](../../../informatica3/AR/Test4-6/index.html)
 
-**NOTA**: Estos apuntes se han extraído directamente del [material de referencia de la asignatura](https://aulavirtual.um.es/access/content/group/1908_G_2021_N_N/Teor%C3%ADa/Apuntes_de_Arquitectura_de_Redes.pdf). Únicamente se han realizado cambios de diseño y correcciones ortográficas/de expresión para facilitar el entendimiento. También se han eliminado algunas porciones (mínimas) que, bajo mi punto de vista, no son necesarias o son redundantes y dificultaban mi comprensión.
-
 - Ampliación de Sistemas Operativos
   
   - [Tema 1: Interfaz de un Sistema Operativo](ASO/Tema1.html)
@@ -48,21 +46,24 @@ En esta web podrá encontrar los apuntes que elaboré (y con los que estudié) d
 
 ## Bibliografía y agradecimientos
 
-La mayor parte del contenido aquí presente ha sido extraído de los apuntes y/o transparencias realizadas por el equipo docente de la [Facultad de Informática de la Universidad de Murcia](https://www.um.es/web/informatica/) durante el curso 2021/2022.
+La mayor parte del contenido aquí presente ha sido extraído del material de referencia realizado por el equipo docente de la [Facultad de Informática de la Universidad de Murcia](https://www.um.es/web/informatica/) durante el curso 2021/2022. Únicamente se han realizado cambios de diseño y correcciones ortográficas/de expresión para facilitar el entendimiento. También se han eliminado algunas porciones (mínimas) que, bajo mi punto de vista, no son necesarias o son redundantes y dificultaban mi comprensión.
 
-- Departamento de Ingeniería y Tecnología de Computadores
+Por lo tanto, no soy el autor de la mayoría de imágenes y explicaciones de estos apuntes, las cuales corresponden a sus respectivos autores originales. Si usted es autor/a de alguno de estos contenidos y desea que sean eliminados, puede ponerse en contacto conmigo a través de los medios encontrados en el pie de página.
+
+- Apuntes de Arquitectura y Organización de Computadores
   
   - José Manuel García Carrasco
   - Pablo Antonio Martínez Sánchez
 
-- Departamento de Ingeniería de la Información y las Comunicaciones
+- Apuntes de Arquitectura de Redes
   
-  - Pedro M. RUIZ MARTÍNEZ
-  - Ramón J. SÁNCHEZ IBORRA
-  - Jordi Ortiz
-  - Pedro J. Fernández
+  - Pedro M. Ruix Martínez
+  - Ramón J. Sánchez Iborra
 
 - Ampliación de Sistemas Operativos
+DIEGO SEVILLA RUIZ
+LORENZO FERNANDEZ MAIMO
+MARIA PILAR GONZALEZ FEREZ
 
 - Sistemas Inteligentes
 

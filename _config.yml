@@ -15,7 +15,11 @@ author: "Pablo Meca"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  Proyectos: ""
+  Proyectos:
+    - WordleSolver: "/_posts/2022-06-29-GALAX"
+    - AnyFind: "/_posts/2022-06-29-GALAX"
+    - GALAX: "/_posts/2022-06-29-GALAX"
+
   Apuntes:
     - Introducción: "https://pjmeca.github.io/2021-09-22-apuntesIntroduccion/"
     - Apuntes 3º: "/site/apuntes3/home"

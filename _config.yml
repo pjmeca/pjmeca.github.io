@@ -16,8 +16,8 @@ author: "Pablo Meca"
 
 navbar-links:
   Proyectos:
-    - WordleSolver: "/2022-06-29-GALAX"
-    - AnyFind: "/2022-06-29-GALAX"
+    - WordleSolver: "/2022-06-29-WordleSolver"
+    - AnyFind: "/2022-06-29-AnyFind"
     - GALAX: "/2022-06-29-GALAX"
 
   Apuntes:
